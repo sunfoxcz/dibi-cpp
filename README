@@ -1,0 +1,5 @@
+Dibi C++
+========
+
+Naive experiment of porting https://github.com/dg/dibi to C++.
+Code is working, but lot of functionality is missing.
